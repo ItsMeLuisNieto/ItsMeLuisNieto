@@ -1,4 +1,4 @@
-- 👋 Hi! It's me, Luis Nieto.
+- 👋 Hi! It's me, Luis Nieto
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on something spectacular
